@@ -1,0 +1,11 @@
+[
+  { "_id": "0", "label": "Все категории", "name": "all" },
+  { "_id": "1", "label": "Роллы", "name": "rolls" },
+  { "_id": "2", "label": "Запеченые роллы", "name": "hotrolls" },
+  { "_id": "3", "label": "Суши", "name": "sushi" },
+  { "_id": "4", "label": "Сеты", "name": "sets" },
+  { "_id": "5", "label": "Воки", "name": "woks" },
+  { "_id": "6", "label": "Салаты", "name": "salads" },
+  { "_id": "7", "label": "Специи", "name": "spices" },
+  { "_id": "8", "label": "Пицца", "name": "pizza" }
+]
